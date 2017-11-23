@@ -1,0 +1,9 @@
+#umich CAEN
+Host caen
+	HostName login-course-2fa.engin.umich.edu
+	User aakansha
+
+#Umich scp
+Host caenscp
+	HostName sftp.itd.umich.edu
+	User aakansha
